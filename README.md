@@ -31,5 +31,8 @@ O projeto consiste na criação de um caderno temático a partir de fontes abert
 ## 📚 Tema Central
 **Investimentos de Longo Prazo segundo Warren Buffett**
 
-##
+## 🔗 Acesso ao Link do Notebook
+[Link Notebook LM: Warren BUffet](https://notebooklm.google.com/notebook/b41568cd-cd91-4260-9536-d73ca682eef0)
+
+
 
