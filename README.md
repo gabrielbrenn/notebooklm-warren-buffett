@@ -18,16 +18,18 @@ O projeto consiste na criação de um caderno temático a partir de fontes abert
 ---
 
 ## 🧠 Metodologia
-1. Curadoria de fontes abertas em texto e PDF
-2. Criação de um caderno temático no NotebookLM
-3. Definição de objetivos de estudo
-4. Elaboração de perguntas estratégicas
-5. Testes de diferentes variações de prompts
-6. Registro das respostas com referências
-7. Organização do conteúdo em formato de miniguia de estudo
+
+- Curadoria de fontes abertas
+- Criação de caderno temático no NotebookLM
+- Definição de objetivos de estudo
+- Elaboração de perguntas estratégicas
+- Testes de variações de prompts
+- Organização do conteúdo em formato de miniguia de estudo
 
 ---
 
 ## 📚 Tema Central
 **Investimentos de Longo Prazo segundo Warren Buffett**
+
+##
 
